@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 nav-menu: true
+tiles-source: posts
 ---
 
 <!-- Main -->
@@ -13,6 +14,8 @@ nav-menu: true
 		<header class="major">
 			<h1>Projects</h1>
 		</header>
+		
+{% include project_tiles.html %}
 
 <!-- Content -->
 <h2 id="content">Sample Content</h2>
