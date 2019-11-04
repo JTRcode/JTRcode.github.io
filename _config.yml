@@ -3,8 +3,8 @@ title: Jackson
 subtitle: by HTML5 UP
 email: jacksonhan@opayq.com
 description: This site acts as a museum of what I have done<br /> and for you to learn more about me.
-baseurl: "JacksonHan" # the subpath of your site, e.g. /blog
-url: https://jtrcode.github.io/JacksonHan # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://jtrcode.github.io/ # the base hostname & protocol for your site
 author:
 street_address: 1265 Military Trail
 city: Scarborough
