@@ -29,6 +29,9 @@ pinterest_url:
 slack_url:
 twitter_url:
 
+plugins:
+  - jekyll-sitemap
+  
 # build settings
 markdown: kramdown
 
