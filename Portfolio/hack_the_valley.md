@@ -3,7 +3,7 @@ layout: post
 title: Hack The Valley
 category: portfolio
 description: Organizes one of Canada's largest hackathons
-image: assets/images/hack_the_valley_banner.jpg
+image: /assets/images/hack_the_valley_banner.jpg
 nav-menu: false
 ---
 

@@ -1,0 +1,14 @@
+/* Post */
+
+.post {
+    // border-bottom: solid 1px _palette(border);
+    // overflow-x: hidden;
+    padding-right: 300px; 
+    padding-left: 300px;
+    .inner {
+        // @include vendor('display', 'flex');
+        // padding: 0 !important;
+        padding-right: 10%; 
+        padding-left: 10%;
+    }
+}

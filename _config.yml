@@ -15,7 +15,7 @@ phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 15
+tiles-count: 40
 
 # social settings
 500px_url:
@@ -37,3 +37,6 @@ markdown: kramdown
 
 sass:
   style: compressed
+
+# Google services
+google_analytics: UA-176724597-1
