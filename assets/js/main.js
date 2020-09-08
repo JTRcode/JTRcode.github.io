@@ -91,12 +91,26 @@
 	};
 
 	$(function() {
+		
+		function setAboutMargins() {
+			//Set padding-top for left and right info boxes in about.html
+			$box = $('#about .box');
+			$profile_image = $('#about .self_portrait')
+			profile_image_height = $profile_image.outerHeight(true);
+			$('#about .left_side .info').css("margin-top", profile_image_height);
+			$box.css("margin-top",profile_image_height-$box.outerHeight());
+		}	
+
+		setAboutMargins();
 
 		var	$window = $(window),
 			$body = $('body'),
 			$wrapper = $('#wrapper'),
 			$header = $('#header'),
-			$banner = $('#banner');
+			$banner = $('#banner'),
+			$about = $('#about');
+
+		$window.on('resize', setAboutMargins);
 
 		// Disable animations/transitions until the page has loaded.
 			$body.addClass('is-loading');
