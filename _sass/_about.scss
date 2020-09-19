@@ -1,16 +1,11 @@
 #about {
     display: flex;
-    border: 5px solid _palette(accent4);
     border-radius: 10px;
     overflow: hidden;
-    // height: 40%;
-    // left: 0;
-    // top: 0;
-    // width: 100%;
-    // z-index: 5;
+    margin: 10px;
 
     .left_side {
-        padding-left: 10px;
+        padding: 15px;
         flex: 0 0 75%;
         color:black;
         float: left;
@@ -20,7 +15,7 @@
             margin-top: 40%; //TODO: fix using js
             h2 {
                 margin: 0px;
-                color:_palette(accent3);
+                color:black;
             }
 
             h6 {

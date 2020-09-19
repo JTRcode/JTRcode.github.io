@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flying License
+title: Flying
 category: portfolio
 description: Earned my power and glider license through cadet scholarships
 image: /assets/images/air04.jpg

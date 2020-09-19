@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Portfolio
+title: Experiences
 nav-menu: true
 ---
 
@@ -11,7 +11,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Portfolio</h1>
+			<h1>Experiences</h1>
 		</header>
 
 {% include portfolio_tiles.html %}
