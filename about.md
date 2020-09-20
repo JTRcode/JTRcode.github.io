@@ -15,7 +15,7 @@ nav-menu: true
   <section id="about">
     <div class="quote">
       <div class="by">Mohatma Gandhi</div>
-      <p>Be the change that you wish to see in the world</p>
+      <p>&ldquo;Be the change that you wish to see in the world&rdquo;</p>
     </div>
     <section class="left_side">
       <div class="info">
@@ -27,8 +27,8 @@ nav-menu: true
     </section>
     <section class="right_side">
     </section>
-    <img class="self_portrait" src="/assets/images/sushi.jpg">
-    <div class="box"></div>
+    <img class="self_portrait" src="/assets/images/profile_banner.jpg">
+    <!-- <div class="box"></div> -->
 
   
 <!-- <div class="skills_bar">

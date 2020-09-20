@@ -17,7 +17,7 @@ for the Air Cadet League's Glider Pilot Scholarship. The selection process took 
 <span class="image fit"><img src="../assets/images/Glider.jpg" alt="" /></span>
 
 <h3>Power Pilot Scholarship Course</h3>
-<p>Power had a similar selection process with higher standards. Having spent the summer of 2018 to get my Private Pilot's License,
+<p>The Power Pilot Scholarship is similar to the Glider Pilot Scholarship, however it focuses on flying powered aircrafts. Power had a similar selection process with higher standards. Having spent the summer of 2018 to get my Private Pilot's License,
 I finished with a 89% on my aviation exam. I received the RÉCOMPENSE ROCKWELL COLLINS AWARD, which came with $2500 and is awarded to 
 the cadet who has achieved excellence in the Power Pilot Scholarship Course.
 <p>
