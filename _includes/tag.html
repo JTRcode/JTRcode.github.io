@@ -1,7 +1,7 @@
-<section id="one" class="tiles">
+<section id="one" class="tag">
   <!-- Display all project tiles in projects.md -->
   {% for page in site.pages %}
-  {% if site.tiles-source == 'pages' and page.show_tile != false and page.category == "portfolio" %}
+  {% if site.tiles-source == 'pages' and page.show_tile != false and page.category == "project" %}
   <article>
     <span class="image">
       <img src="{{ page.image }}" alt="" />

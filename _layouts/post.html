@@ -22,6 +22,9 @@
 		<header class="major">
 			<h1>{{ page.title }}</h1>
 		</header>
+		{% for skill in page.skills %}
+			<a href="../Skills/{{skill}}" class="link">{{skill}}</a>
+		{% endfor %}
 		{% if page.image %}<span class="image main"><img style="max-height: 400px; width:auto; margin-left: auto; margin-right: auto;" src="{{ page.image }}" alt="" /></span>{% endif %}
 		<p>{{ page.content | markdownify }}</p>
 	</div>

@@ -4,6 +4,7 @@ title: Jam Direct
 category: portfolio
 description: worked as full stack within multiple teams to develope tools that generates $100,000 in revenue annually 
 image: /assets/images/Jam_Direct_logo.png
+date: 2019, SEPT
 nav-menu: false
 ---
 
