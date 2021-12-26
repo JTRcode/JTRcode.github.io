@@ -21,7 +21,7 @@ nav-menu: true
       <div class="info">
         <h2>Jackson Han</h2>
         <h6>Junior Full Stack Devloper</h6>
-        My name is Jackson and I'm currently a third year student at University of Toronto specializing in Computer Science.
+        My name is Jackson and I'm currently a fourth year student at University of Toronto specializing in Computer Science.
         I'm outgoing and devoted to the work I do, always learning and applying what I have learned. This website is a showcase of some of the things that I do. To learn more about me feel free to see my resume or email me.
       </div>  
     </section>
